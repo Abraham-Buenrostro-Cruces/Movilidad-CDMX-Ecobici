@@ -12,7 +12,7 @@ Análisis de movilidad en el sistema ECOBICI de la Ciudad de México usando PySp
 
 Este proyecto realiza un análisis distribuido de datos reales del sistema ECOBICI en CDMX. Utiliza Apache Spark en un entorno local (VS Code con Jupyter) para explorar patrones de movilidad, identificar horarios de mayor uso, diferencias por edad y género, estaciones más utilizadas, y otros aspectos relevantes del uso de bicicletas públicas.
 
-**Fuente de datos**: [Portal de Datos Abiertos CDMX](https://datos.cdmx.gob.mx/dataset/ecobici)  
+**Fuente de datos**: [Portal de Datos Abiertos CDMX](https://ecobici.cdmx.gob.mx/datos-abiertos/)  
 **Archivo utilizado**: `Ecobicis.csv`  
 **Tamaño**: ~107 MB  
 **Formato**: CSV, con columnas como `Hora_Retiro`, `Hora_Arribo`, `Edad_Usuario`, `Genero_Usuario`, `Ciclo_Estacion_Retiro`, `Fecha_Retiro`.
